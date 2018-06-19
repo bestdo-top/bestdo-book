@@ -12,5 +12,4 @@ activeSubjectsName.forEach((item, index) => {
 
 console.log(activeSubjectsArr)
 
-
 ```
